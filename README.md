@@ -1,0 +1,2 @@
+# vacan
+Vacancy analyzer
